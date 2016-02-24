@@ -1,2 +1,11 @@
-body{background-color: red}
-h1,p{color: white;}
+body{background: url("images/grandteton_background.jpg");
+	background-size: cover;
+	font-family: 'Lato', sans-serif}
+h1, h2{	color: rgb(255,255,255); 
+	background-color: rgb(69,67,67);
+	text-transform: uppercase;
+	margin: 0px}
+h1{	font-size: 40px}
+h2{	font-size: 12px}
+.headline{	color: rgb (69,67,67)}
+p{color: #000000}

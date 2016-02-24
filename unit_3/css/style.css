@@ -1,0 +1,45 @@
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: rgb(69,67,67);
+	color: rgb(255,255,255);
+	text-align:center;
+}
+h1{
+	text-transform: uppercase;
+}
+
+#slogan{
+	text-transform: uppercase;
+	font-style: italic;
+	width: 700px;
+	margin: auto;
+}	
+
+img{ 
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 700px
+}
+
+h2{
+	font-size: 20px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #fff;
+	display: inline;
+}
+.resume.paragraphs{
+	font-size: 10px;
+}
+.contactinfo{
+	font-size: 15px;
+	border: 1px solid #fff;
+	width: 250px;
+	margin: auto;
+}
+ul{
+	text-align: left;
+	width: 700px;
+	margin: auto;
+	border-bottom: 1px solid #fff;
+}
