@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300);
+
+body{
+/*background-color: rgb(69,67,67);*/
+	background: url("../images/grandteton.jpg") no-repeat center center fixed;
+	background-size: cover;
+	color: rgb(255,255,255);
+	text-align:center;
+}
+h1{
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+}
+
+#slogan{
+	font-family: 'Roboto Slab', serif;
+	width: 750px;
+	margin: auto;
+}	
+img{ 
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 750px
+}
+
+h2{
+	font-size: 20px;
+	font-family: 'lato', sans-serif;
+	text-transform: uppercase;
+	border-bottom: 1px solid #fff;
+	display: inline;
+}
+ul{
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	font-size: 0.75em;
+	width: 650px;
+	margin: auto;
+}
+.wrapper{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+	width: 800px;
+	margin: auto;
+}
+header{
+	margin-bottom: 25px;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer{
+	font-size: 15px;
+	border: 1px solid #fff;
+	width: 750px;
+	margin: auto;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+main{
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+section{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
