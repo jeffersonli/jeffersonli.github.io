@@ -1,0 +1,97 @@
+x@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:300);
+
+body{
+background-color: rgb(69,67,67);
+}
+h1{
+	text-transform: uppercase;
+	font-family: 'Lato', sans-serif;
+}
+
+#slogan{
+	font-family: 'Roboto Slab', serif;
+	width: 90%;
+	margin: auto;
+}	
+img{ 
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+	width: 90%;
+}
+
+h2{
+	font-size: 20px;
+	font-family: 'lato', sans-serif;
+	text-transform: uppercase;
+	border-bottom: 1px solid #fff;
+	display: inline;
+}
+ul{
+	font-family: 'Roboto Slab', serif;
+	text-align: left;
+	font-size: 0.75em;
+	width: 27%;
+	margin: auto;
+}
+.wrapper{
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+	width: 95%;
+	margin: auto;
+}
+header{
+	margin-bottom: 25px;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+footer{
+	font-size: 15px;
+	border: 1px solid #fff;
+	width: 90%;
+	margin: auto;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+main{
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+    width: 90%;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 27%;
+}
+#middle{
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+    float: left;   
+    width: 27%;
+}
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;   
+    width: 27%;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+
